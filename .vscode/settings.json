@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5d58d619-c609-43c7-afe5-ad2e0294f8e9/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/revenberg-configuration-server",
+    "appService.deploySubpath": ""
+}

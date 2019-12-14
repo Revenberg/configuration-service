@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConfigurationServiceApplication",
+            "request": "launch",
+            "mainClass": "info.revenberg.configurationservice.ConfigurationServiceApplication",
+            "projectName": "centralized-configuration-service"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConfigurationServiceApplication",
+            "request": "launch",
+            "mainClass": "com.example.configurationservice.ConfigurationServiceApplication",
+            "projectName": "centralized-configuration-service"
+        }
+    ]
+}
